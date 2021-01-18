@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5198fcda-eacd-4826-b1e0-8a343c35d581" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nFjJX61dTOnjhO1LohY3md0G5N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5198fcda-eacd-4826-b1e0-8a343c35d581" name="Default Changelist" comment="" />
+      <created>1610992662061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610992662061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="FlutterRunConfigurationType" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="849" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610993881830">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="849" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1610993881830" />
+    <state x="1226" y="298" key="FileChooserDialogImpl" timestamp="1610993840677">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1226" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1610993840677" />
+    <state x="923" y="175" key="SettingsEditor" timestamp="1610993779600">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="923" y="175" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1610993779600" />
+  </component>
+</project>
