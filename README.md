@@ -1,1 +1,1 @@
-# rally-frontend
+# rally_frontend
